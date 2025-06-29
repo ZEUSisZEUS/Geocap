@@ -1,4 +1,4 @@
-[GeoCap Proxy Framework](Geocap.jpg)
+[GeoCap Proxy Framework](GeoCap.jpg)
 
 A powerful Flask-based web proxy framework for proxying websites, collecting detailed client information, and triggering interactive client-side actions like geolocation, webcam snapshots, and custom popups. The framework includes a real-time CLI for controlling connected clients and supports both local and global (Cloudflared) access modes.
 Features
